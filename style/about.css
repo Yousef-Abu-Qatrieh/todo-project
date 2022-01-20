@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ .container{ 
+     width: 1140px;
+     margin: 0 auto ;
+ }
+ .grid-container{
+
+    display:grid;
+    grid-template-rows: 100px 1fr 90px;
+    grid-auto-columns: 1fr 1fr ;
+ }
+header{
+    height: 100px;
+    
+    display: flex;
+    align-items: center ;
+    justify-content: space-between;
+
+}
+
+
+
+header .header-nav a{
+    
+    padding: 10px 15px; 
+
+}
+main{
+    grid-column: 1/-1 ;
+}
+.about-us{
+   display: flex; 
+   gap: 50px;
+   line-height: 2;
+   align-items: center;
+   height: 300;
+
+}
+.contact-us{
+    display: flex; 
+   gap: 50px;
+   line-height: 2;
+   align-items: center;
+  
+}
+.contact-us form {
+    display: grid;
+    grid-template-columns: 1fr;
+    
+   
+}
+footer {
+   
+    display: flex;
+    align-items:flex-end ;
+    justify-content: left;
+    background-color: black;
+    color: white;
+    
+  }
