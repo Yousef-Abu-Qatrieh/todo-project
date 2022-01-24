@@ -10,7 +10,4 @@ Java script is a programming language it help you to create interactive webpage 
 
 How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment? 15 min  
 
-What observations or questions do you have about what you’ve learned so far?   
-we learned how to make array and how to use function in Javascript  
-How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment? 40 min  
 
