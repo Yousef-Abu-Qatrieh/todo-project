@@ -4,6 +4,13 @@
 
 
 
+What observations or questions do you have about what you’ve learned so far?
+Java script is a programming language it help you to create interactive webpage click entering value dynamic
+
+How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment? 15 min
+
+
+
 
 
 
